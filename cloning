@@ -1,0 +1,4 @@
+git clone https://git.codecrafters.io/a9e446e18e03771b codecrafters-redis-python
+cd codecrafters-redis-python
+git commit --allow-empty -m 'test'
+git push origin master
